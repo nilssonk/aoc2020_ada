@@ -1,4 +1,4 @@
 with "config/aoc2020_ada_config.gpr";
 aggregate project Aoc2020_Ada is
-   for Project_Files use ("common/common.gpr");
+   for Project_Files use ("common/common.gpr", "problem1/problem1.gpr");
 end Aoc2020_Ada;
