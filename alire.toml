@@ -1,0 +1,8 @@
+name = "aoc2020_ada"
+description = "Ada solutions for Advent of Code 2020"
+version = "0.0.0"
+
+authors = ["Kim Nilsson"]
+maintainers = ["Kim Nilsson <kim@wayoftao.net>"]
+maintainers-logins = ["nilssonk"]
+
