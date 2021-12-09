@@ -6,3 +6,4 @@ authors = ["Kim Nilsson"]
 maintainers = ["Kim Nilsson <kim@wayoftao.net>"]
 maintainers-logins = ["nilssonk"]
 
+executables = ["problem1"]
